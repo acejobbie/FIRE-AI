@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2349013432338', '2349013432338']
-global.prems = ['2349013432338', '2349013432338', '2349013432338']
-global.allowed = ['2349013432338', '2349013432338', '2349013432338']
+global.mods = ['254726856795', '254750178300']
+global.prems = ['254726856795', '254750178300', '2349013432338']
+global.allowed = ['254726856795', '254750178300', '2349013432338']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -71,12 +71,12 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.packname = '𝙸 αɱ ค̡ƈє™⟬𝟭⟭'
+global.author = 'ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
 global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
-global.fgsc = 'https://github.com/'
+global.fgsc = 'https://github.com/acejobbie/FIRE-AI'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
 global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
@@ -84,7 +84,7 @@ global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
 global.wait = '*🕑 _processing..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '🕑'
-global.dmoji = '🤭'
+global.dmoji = '🉑'
 global.done = '✅'
 global.error = '❌'
 global.xmoji = '🔥'
